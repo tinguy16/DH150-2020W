@@ -10,6 +10,16 @@
   
   <h4>Screenshots:
   
+  ![Home](https://github.com/tinguy16/DH150-2020W/blob/master/IMG_3900.PNG)
+
+  ![Profile](https://github.com/tinguy16/DH150-2020W/blob/master/IMG_3901.PNG)
+  
+  ![FeedbackStream](https://github.com/tinguy16/DH150-2020W/blob/master/IMG_3902.PNG)
+  
+  ![LatestTracks](https://github.com/tinguy16/DH150-2020W/blob/master/IMG_3903.PNG)
+  
+   ![PlayHistory](https://github.com/tinguy16/DH150-2020W/blob/master/IMG_3904.PNG)
+  
   <h4>URL: 
   
   https://audiu.net/welcome
