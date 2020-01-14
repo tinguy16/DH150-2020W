@@ -104,7 +104,15 @@ Severity rating: 2
   
   <h4>Screenshots:
   
- 
+ ![Home](https://github.com/tinguy16/DH150-2020W/blob/master/IMG_3907.PNG)
+
+  ![Stream](https://github.com/tinguy16/DH150-2020W/blob/master/IMG_3908.PNG)
+  
+  ![Search](https://github.com/tinguy16/DH150-2020W/blob/master/IMG_3909.PNG)
+  
+  ![Library](https://github.com/tinguy16/DH150-2020W/blob/master/IMG_3910.PNG)
+  
+  ![NowPlaying](https://github.com/tinguy16/DH150-2020W/blob/master/IMG_3911.PNG)
   
   <h4>URL: 
   
@@ -116,28 +124,34 @@ https://soundcloud.com/
   
   <h4>Overall evaluation: 
   
- I feel like the design of this app could be more simplified. While the functionality is straightforward, the home page is a bit cluttered and it can take a while to scroll to a specific feature. I think overall, there are too many options that make the app confusing to navigate for new users. However, aesthetically I think the design of the app is very sleek and visually appealing. 
+ I feel like the design of this app could be more simplified. While the functionality is straightforward, the home page is a bit cluttered and it can take a while to scroll to a specific feature. I think overall, there are too many options that make the app confusing to navigate for new users. It was also difficult to use from the artist side i.e. uploading music. However, aesthetically I think the design of the app is very sleek and visually appealing. 
 
 
 <h2>Heuristic evaluation:
 
 <h4>#1: Visibility of system status
   
+As a song is playing, the user is able to see how far along in the song they are by looking at the progress bar. When the user clicks on the favorite or reposst button, it changes color to let the user know the action has been completed. When posting a comment, there is also a loading symbol that appears while the user waits for their comment to successfully post. 
 
-
-
+Severity rating: 1
 
 <h4>#2: Match between system and the real world
   
+The home, search, favorite, repost, and activity feed symbols are all commonly used symbols that resemble their real world counterpart. However, the symbol used to get to the user's profile is more obscure and not as intuitive. 
 
+Severity rating: 1 
 
 <h4>#3: User control and freedom
   
+If the user presses and holds a comment they posted, they are able to delete the comment. The back button and home button are also constantly present for the user to exit out of an action or go back to a previous action. 
 
+Severity rating: 1
 
 <h4>#4: Consistency and standards
   
+There is a toolbar at the bottom of the app that allows users to quickly and easily navigate to the main pages of the app. This toolbar is present throughout the use of the app and its function remains contant. While there is usually a back button on the upper left hand corner, when a track is playing, this button disappears and there is instead a down button on the upper right hand corner that performs the same function. It is also hard to understand the difference between the "SoundCloud Weekly" page and the "More of what you like page" since they both seem to be curated based on the user's listening history. In order to access their following page and profile, the user must look under the Library page, which is unconventional. 
 
+Severity rating: 3 
 
 <h4>#5: Error prevention
   
