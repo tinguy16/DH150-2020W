@@ -1,12 +1,12 @@
-<h1>Audiu App Redesign
+<h1>Audiu/SoundCloud App Redesign
 
 <h2>DH150 Assignment01: Heuristic Evaluation by Tina Nguyen
 
 <h3>Descripton of Community: 
   
-  With my UX design, I hope to contribute to the community of up-and-coming artists as well as those who are seeking to discover new music. I hope to improve the UX/UI of the Audiu app in order to foster an environment where artists can share their music, receive feedback, and hopefully gain new fans. Through my redesign of the app, it is my goal to create a space that is conducive to interactional communication rather than just transactional communication. 
+  With my UX design, I hope to contribute to the community of up-and-coming artists as well as those who are seeking to discover new music. I hope to improve the UX/UI of the Audiu or SoundCloud app in order to foster an environment where artists can share their music, receive feedback, and hopefully gain new fans. Through my redesign of the app, it is my goal to create a space that is conducive to interactional communication rather than just transactional communication. 
 
-<h3>Information about app: 
+<h3>Information about Audiu: 
   
   <h4>Screenshots:
   
@@ -27,6 +27,7 @@
   <h4>Overview: 
   
   Audiu is an audio hosting platform that allows undiscovered artists to share their music and receive feedback from other users. Users can upload their own tracks, discover new tracks based on desired genre, and rate, favorite, and comment on tracks. 
+  
   <h4>Overall evaluation: 
   
   Upon first using the app, I found the aesthetics of it to be a bit dated. However, the design is simple enough that navigating through the app was pretty intuitive. I felt like there were some elements missing, such as an activity feed, a "Compose message" option, and a "Favorited tracks" list. The way comments are displayed is also very limiting. I found that the design makes it difficult to meaningfully interact with other users. 
@@ -93,3 +94,71 @@ Severity rating: 2
 Although there is an option to contact support via email, there should also be a FAQ page to get immediate answers to common questions. Only the "feedback stream" has a "what's this?" option to clarify its purpose. This option should be available on all the menu options as well. 
 
 Severity rating: 2
+
+
+
+
+
+
+<h3>Information about SoundCloud: 
+  
+  <h4>Screenshots:
+  
+ 
+  
+  <h4>URL: 
+  
+https://soundcloud.com/
+  
+  <h4>Overview: 
+  
+  SoundCloud is an app that hosts music from both up-and-coming as well as well-known artists. Users can stream original tracks and remixed tracks on the app. SoundCloud allows users to like and comment on tracks as well as follow their favorite artists. 
+  
+  <h4>Overall evaluation: 
+  
+ I feel like the design of this app could be more simplified. While the functionality is straightforward, the home page is a bit cluttered and it can take a while to scroll to a specific feature. I think overall, there are too many options that make the app confusing to navigate for new users. However, aesthetically I think the design of the app is very sleek and visually appealing. 
+
+
+<h2>Heuristic evaluation:
+
+<h4>#1: Visibility of system status
+  
+
+
+
+
+<h4>#2: Match between system and the real world
+  
+
+
+<h4>#3: User control and freedom
+  
+
+
+<h4>#4: Consistency and standards
+  
+
+
+<h4>#5: Error prevention
+  
+
+
+<h4>#6: Recognition rather than recall
+  
+
+
+<h4>#7: Flexibility and efficiency of use
+  
+
+
+<h4>#8: Aesthetic and minimalist design
+  
+
+
+<h4>#9: Help users recognize, diagnose, and recover from errors
+  
+
+
+<h4>#10: Help and documentation
+  
+
