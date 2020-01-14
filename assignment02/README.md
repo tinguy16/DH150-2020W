@@ -1,3 +1,11 @@
-# DH150 assignment 02 Usability Testing
+# DH150 Assignment 02: Usability Testing by Tina Nguyen 
 
-## description
+## What is usability testing? 
+
+Usability testing is.....
+
+## Online survey: 
+
+## Pilot UT video: 
+
+## Conclusion 
