@@ -4,7 +4,7 @@
 
 <h3>Descripton of Community: 
   
-  With my UX design, I hope to contribute to the community of up-and-coming artists as well as those who are seeking to discover new music. I hope to improve the UX/UI of the Audiu or SoundCloud app in order to foster an environment where artists can share their music, receive feedback, and hopefully gain new fans. Through my redesign of the app, it is my goal to create a space that is conducive to interactional communication rather than just transactional communication. 
+With my UX design, I hope to contribute to the community of up-and-coming artists as well as those who are seeking to discover new music. I hope to improve the UX/UI of the Audiu or SoundCloud app in order to foster an environment where artists can share their music, receive feedback, and hopefully gain new fans. Through my redesign of the app, it is my goal to create a space that is conducive to interactional communication rather than just transactional communication. 
 
 <h3>Information about Audiu: 
   
@@ -143,7 +143,7 @@ Severity rating: 1
 
 <h4>#3: User control and freedom
   
-If the user presses and holds a comment they posted, they are able to delete the comment. The back button and home button are also constantly present for the user to exit out of an action or go back to a previous action. 
+If the user presses and holds a comment they posted, they are able to delete the comment. The back button and home button are also constantly present for the user to exit out of an action or go back to a previous action. The user can also quickly undo or redo reposting or favoriting a track. 
 
 Severity rating: 1
 
@@ -155,24 +155,36 @@ Severity rating: 3
 
 <h4>#5: Error prevention
   
+There are few to no error-prone conditions because the app allows the user to undo their actions with one click. 
 
+Severity rating: 1 
 
 <h4>#6: Recognition rather than recall
   
+Each feature on the Home page has a brief description of what it is so that users don't have to remember the meaning of each subpage. When typing in the search bar, the app auto suggests what it thinks the user is typing based on their previous searches and popular searches. 
 
+Severity rating: 1 
 
 <h4>#7: Flexibility and efficiency of use
   
+Because the bottom toolbar is always present, the user can efficiently navigate between the main pages. However, the home page contains many subpages that can only be reached by having to continuously scroll from the top to the bottom. It also takes too many clicks for the user to reach their profile/edit their profile.
 
+Severity rating: 3
 
 <h4>#8: Aesthetic and minimalist design
   
+The design is very simple and visual-based. The only words that are used are meaningful phrases that help the user better understand each function. The only unnecessary feature is the promotion of the premium version of the app that is constanly on the upper left hand corner of the home page and the bottom right hand corner of every page. 
 
+Severity rating: 1 
 
 <h4>#9: Help users recognize, diagnose, and recover from errors
   
+The error messages that pop up are easy to understand and offer suggestions to fix the issue. 
 
+Severity rating: 1 
 
 <h4>#10: Help and documentation
   
+While there is an area app where the user can access the FAQ page of the main website, it is difficult to navigate to. 
 
+Severity rating: 2 
