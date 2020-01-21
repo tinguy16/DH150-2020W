@@ -24,7 +24,7 @@ Please find the pilot test video [here](https://drive.google.com/file/d/1kjGMlIX
 <html>
 <body>
   
-  <iframe src="url video in google drive/preview" ></iframe>
+  <iframe src="https://drive.google.com/file/d/1kjGMlIXADN6FDesBgsSNVxuQia4fe8XY/preview" ></iframe>
 
 ## Conclusion 
 
