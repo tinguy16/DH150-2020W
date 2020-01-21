@@ -22,4 +22,6 @@ Please find the pilot test video here:
 
 ## Conclusion 
 
-After conducting the pilot test, I found that 
+After conducting the pilot test, I found that many of the issues I found with the app were shared by the participant as well. However, there were some instances where the participant completed a part of a task in a way that was unintended. For example, when I asked the participant to navigate to an artist's profile and connect with them, instead of clicking on the artist's name, they clicked on the name of someone who commented on the artist's track. I had overlooked how these two features could have been mixed up, so the UT shed light on areas that proved to be confusing for users who are unfamiliar with the app. It was also extremely helpful to hear the participant talk through their actions and explain their thought process because it gave me a clearer understanding of how intuitive the app is to users. 
+
+One thing I struggled with is how much detail I should give the participant when asking them to complete a task. I was unsure if I should just simply ask them to complete a task without further instruction, or if I should give them a step by step breakdown of how to complete a task. I think for this inital UT, it was fine to break down each task into different steps beacuse particpant was new to the app and formatting the tasks this way tests user recognition of the different features. In the future, I will try giving less detail on how to complete each task to see the different paths users take to complete a task. 
