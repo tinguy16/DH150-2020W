@@ -20,11 +20,7 @@ Please find the usability test materials [here](https://forms.gle/4FGyxN1AqHjKCF
 
 Please find the pilot test video [here](https://drive.google.com/file/d/1kjGMlIXADN6FDesBgsSNVxuQia4fe8XY/view?usp=drivesdk)
 
-<!DOCTYPE html>
-<html>
-<body>
-  
-  <iframe src="https://drive.google.com/file/d/1kjGMlIXADN6FDesBgsSNVxuQia4fe8XY/preview" ></iframe>
+[![Pilot UT ](https://res.cloudinary.com/marcomontalbano/image/upload/v1579606116/video_to_markdown/images/google-drive--1kjGMlIXADN6FDesBgsSNVxuQia4fe8XY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1kjGMlIXADN6FDesBgsSNVxuQia4fe8XY/view "Pilot UT ")
 
 ## Conclusion 
 
