@@ -14,7 +14,7 @@ I also found it difficult to connect with other users on the app, especailly art
 
 ## Online survey
 
-Please find the usability test materials here: [UT test](https://forms.gle/4FGyxN1AqHjKCFvt5)
+Please find the usability test materials [here](https://forms.gle/4FGyxN1AqHjKCFvt5)
 
 ## Pilot UT video
 
