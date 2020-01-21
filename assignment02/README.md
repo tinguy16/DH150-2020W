@@ -12,8 +12,14 @@ With the design of the profile page being very limited in functionality, I wante
 
 I also found it difficult to connect with other users on the app, especailly artists whose work you enjoy, because the design of the app focuses more on featuring specific tracks as opposed to their creators. By asking participants to find an artist they enjoy and connect with them, I will see what steps users take in finding different user profiles. 
 
-## Online survey: 
+## Online survey
 
-## Pilot UT video: 
+Please find the usability test materials here: [UT test](https://forms.gle/4FGyxN1AqHjKCFvt5)
+
+## Pilot UT video
+
+Please find the pilot test video here:
 
 ## Conclusion 
+
+After conducting the pilot test, I found that 
