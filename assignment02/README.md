@@ -18,7 +18,7 @@ Please find the usability test materials [here](https://forms.gle/4FGyxN1AqHjKCF
 
 ## Pilot UT video
 
-Please find the pilot test video here:
+Please find the pilot test video [here](https://drive.google.com/file/d/1kjGMlIXADN6FDesBgsSNVxuQia4fe8XY/view?usp=drivesdk)
 
 <!DOCTYPE html>
 <html>
