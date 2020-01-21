@@ -20,6 +20,12 @@ Please find the usability test materials [here](https://forms.gle/4FGyxN1AqHjKCF
 
 Please find the pilot test video here:
 
+<!DOCTYPE html>
+<html>
+<body>
+  
+  <iframe src="url video in google drive/preview" ></iframe>
+
 ## Conclusion 
 
 After conducting the pilot test, I found that many of the issues I found with the app were shared by the participant as well. However, there were some instances where the participant completed a part of a task in a way that was unintended. For example, when I asked the participant to navigate to an artist's profile and connect with them, instead of clicking on the artist's name, they clicked on the name of someone who commented on the artist's track. I had overlooked how these two features could have been mixed up, so the UT shed light on areas that proved to be confusing for users who are unfamiliar with the app. It was also extremely helpful to hear the participant talk through their actions and explain their thought process because it gave me a clearer understanding of how intuitive the app is to users. 
