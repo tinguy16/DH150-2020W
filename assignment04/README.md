@@ -1,1 +1,1 @@
-# Assignment 04: Contextual Inquiry (User Study)
+# Assignment 04: Contextual Inquiry (User Study) by Tina Nguyen
