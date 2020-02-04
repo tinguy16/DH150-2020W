@@ -8,9 +8,10 @@ The Audiu app is desgined for users from the teenage years to young adult years 
 ## Research Methods & Plan
 In order to gain a better understanding of the target market and what their needs are, I will be conducting an interview with an individual who fits within the target user description. I have chosen to interview this person because she is a current undergraduate student who enjoys discovering new music but also plays the guitar and would like to gain feedback from others. 
 ## Interview Guide
-My interview/observation guide can be found [here.](https://docs.google.com/document/d/18L2gjK9DtOfDz4cWBq2Y7q8A1wvW1MUz62mXbET3Ie4/edit?usp=sharing)
+My interview guide can be found [here.](https://docs.google.com/document/d/18L2gjK9DtOfDz4cWBq2Y7q8A1wvW1MUz62mXbET3Ie4/edit?usp=sharing)
 ## User Data
 The audio from my interview can be found [here.](https://drive.google.com/file/d/1qvZgqq_CVisQHp8KbcplvAOVZn48zaie/view?usp=sharing)
 ## Transcript
 A transcript of my interview can be found [here.](https://docs.google.com/document/d/1MxDwnukKDavsXwVmNSrjdUr_LMZfHBS0rd8nRBbKSNQ/edit?usp=sharing) 
 ## Reflection
+After listening to the interview over again, I was able to gain highly valuable insight about what my target user is looking for in a music discovery app. I found that 
