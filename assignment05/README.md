@@ -1,5 +1,8 @@
 # Assignment 05: Persona + Scenario by Tina Nguyen
 ## Personas
+
+![Abby](https://github.com/tinguy16/DH150-2020W/blob/master/abby.jpg)
+
 ### 1. Abby
 **Age:** 20
 
@@ -20,6 +23,8 @@ scroll or click too many times before getting to her desired destination will ca
 
 **Empathy map:**
 
+
+![Eric](https://github.com/tinguy16/DH150-2020W/blob/master/eric.jpg)
 
 ### 2. Eric
 **Age:** 24
@@ -49,7 +54,7 @@ scroll or click too many times before getting to her desired destination will ca
 
 **Location:** Chicago  
 
-**Characteristics:** caring, pateint, empathetic 
+**Characteristics:** caring, patient, empathetic 
 
 **Motivation/Needs:** As a music teacher for 4 years, Richie has a passion for helping others develop their musical abilities.
 He has worked with people of all ages and skill levels and considers himself an expert musician and mentor. Although Richie normally charges for his music lessons, he wants to continue helping other aspiring musicians outside of his workplace for free and in a more casual setting. He doesn't want to sign up for anything that is too much commitment. He just wants to be able to give his comments and critiques to others whenever he pleases. 
