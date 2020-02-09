@@ -32,7 +32,7 @@ scroll or click too many times before getting to her desired destination will ca
 
 **Characteristics:** shy, hard working, passionate 
 
-**Motivation/Needs:** Eric just moved to Los Angeles to pursue his dream of becoming a musician. Unfortunaely, it's been hard for him to get his music heard with all of the surrounding competition, but he is determined to find a way to get his name out there. Coming from a small town, Eric is relatively shy, so interacting with people by street performing is not his strongest suit. Instead, he hopes to find a platform that will allow him to post his music and form a following virtually. Eric has tried posting his music on social media sites like YouTube, but there is just too much unrelated content on there for others to ever come across his music. 
+**Motivation/Needs:** Eric just moved to Los Angeles to pursue his dream of becoming a musician. Unfortunately, it's been hard for him to get his music heard with all of the surrounding competition, but he is determined to find a way to get his name out there. Coming from a small town, Eric is relatively shy, so interacting with people by street performing is not his strongest suit. Instead, he hopes to find a platform that will allow him to post his music and form a following virtually. Eric has tried posting his music on social media sites like YouTube, but there is just too much unrelated content on there for others to ever come across his music. 
 
 **Barriers/Facilitators:** Eric understands the the basics of technology, but going beyond that can be overwhelming for him. He is not looking for anything fancy, he simply wants to be able to upload his music, view fan engagement, and interact with other users via comments and messages.
 
@@ -52,9 +52,9 @@ scroll or click too many times before getting to her desired destination will ca
 **Characteristics:** caring, pateint, empathetic 
 
 **Motivation/Needs:** As a music teacher for 4 years, Richie has a passion for helping others develop their musical abilities.
+He has worked with people of all ages and skill levels and considers himself an expert musician and mentor. Although Richie normally charges for his music lessons, he wants to continue helping other aspiring musicians outside of his workplace for free and in a more casual setting. He doesn't want to sign up for anything that is too much commitment. He just wants to be able to give his comments and critiques to others whenever he pleases. 
 
-
-**Barriers/Facilitators:** 
+**Barriers/Facilitators:** One of Richie's main issues with apps is that their design looks too dated. Richie prefers using apps that are aesthetically pleasing. He enjoys modern, minimal designs that are not too distracting but still have a visual appeal to them. 
 
 **Empathy map:**
 
