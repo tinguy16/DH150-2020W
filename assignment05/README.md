@@ -1,9 +1,10 @@
 # Assignment 05: Persona + Scenario by Tina Nguyen
 ## Personas
+### 1. Abby
 
 ![Abby](https://github.com/tinguy16/DH150-2020W/blob/master/abby.jpg)
 
-### 1. Abby
+
 **Age:** 20
 
 **Gender:** Female
