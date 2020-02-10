@@ -45,6 +45,7 @@ scroll or click too many times before getting to her desired destination will ca
 **Empathy map:**
 
 
+![Richie](https://github.com/tinguy16/DH150-2020W/blob/master/richie.jpeg)
 ### 3. Richie 
 **Age:** 25
 
