@@ -4,7 +4,6 @@
 
 ![Abby](https://github.com/tinguy16/DH150-2020W/blob/master/abby.jpg)
 
-
 **Age:** 20
 
 **Gender:** Female
@@ -25,9 +24,10 @@ scroll or click too many times before getting to her desired destination will ca
 **Empathy map:**
 
 
+### 2. Eric
+
 ![Eric](https://github.com/tinguy16/DH150-2020W/blob/master/eric.jpg)
 
-### 2. Eric
 **Age:** 24
 
 **Gender:** Male
@@ -46,8 +46,10 @@ scroll or click too many times before getting to her desired destination will ca
 **Empathy map:**
 
 
-![Richie](https://github.com/tinguy16/DH150-2020W/blob/master/richie.jpeg)
 ### 3. Richie 
+
+![Richie](https://github.com/tinguy16/DH150-2020W/blob/master/richie.jpeg)
+
 **Age:** 25
 
 **Gender:** Male
