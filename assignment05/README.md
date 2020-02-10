@@ -73,7 +73,7 @@ He has worked with people of all ages and skill levels and considers himself an 
 
 ## Scenarios
 ### Scenario 1
-**Intention/goal:**
+**Intention/goal:** It's a Saturday morning and Abby decides to kick off her weekend by going to work out at the gym. When she gets there, she hears the speakers in the gym playing the same Top 40 hits they play every week, so she decideds to pop in her AirPods to listen to her own music. She's three songs into her workout playlist on Spotify when she starts getting bored of her own playlist. She hasn't had time to curate a new workout playlist, so she's been listening to this same rotation of songs every time she goes to work out. She then tries looking through Spotify's New Releases playlist, but this is just a mix of different types of music and Abby specifically wants to listen to EDM while working out to get her pumped up. 
 
 **Action:**
 
