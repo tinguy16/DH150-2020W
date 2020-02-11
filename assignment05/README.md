@@ -82,12 +82,12 @@ He has worked with people of all ages and skill levels and considers himself an 
 ### Scenario 2
 **Intention/goal:** It's been two months since Eric posted his newest song on YouTube and Spotify. He's been checking back everyday to see how many people have viewed/streamed it, but has constantly been disappointed with what he's found. His YouTube video has only been viewed 50 times with a mere 3 comments, and his Spotify single has only been streamed 80 times with no option for users to comment their thoughts on it. Eric is feeling a bit discouraged and intimidated having to post his music up alongside viral hits that garner all the attention. 
 
-**Action:** Eric opens up Audiu on his phone and decides to see how much success his song can reach on there. He taps on the "Import tracks" option, chooses the audio file from his phone's library, and hits upload. Within a few minutes, the song is uploaded to Eric's profile and available for the public to listen to. After only a few days, Eric checks back and to his pleasant surprise, he sees that his song has already been played 300 times and commented on 60 times. Eric eagerly hits reply on each comment, types his response to all of the support, and publishes his comments. He even takes the time to friend some of the users who left expecially kind comments and messages them directly. Eric begins to feel hopeful of his career in music. 
+**Action:** Eric opens up Audiu on his phone and decides to see how much success his song can reach on there. He taps on the "Import tracks" option, chooses the audio file from his phone's library, and hits upload. Within a few minutes, the song is uploaded to Eric's profile and available for the public to listen to. After only a few days, Eric checks back and to his pleasant surprise, he sees that his song has already been played 300 times and commented on 60 times. Eric eagerly hits reply on each comment, types his response to all of the support, and publishes his comments. Eric begins to feel hopeful again of his career in music. 
 
 **Journey map:**
 
 ### Scenario 3
-**Intention/goal:**
+**Intention/goal:** 
 
 **Action:**
 
