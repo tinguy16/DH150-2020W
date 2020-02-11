@@ -46,7 +46,7 @@ scroll or click too many times before getting to her desired destination will ca
 
 **Empathy map:**
 
-![RichieEmpathyMap](https://github.com/tinguy16/DH150-2020W/blob/master/richie%20EM.jpg)
+![EricEmpathyMap](https://github.com/tinguy16/DH150-2020W/blob/master/eric%20EM.jpg)
 
 ### 3. Richie 
 
@@ -69,7 +69,7 @@ He has worked with people of all ages and skill levels and considers himself an 
 
 **Empathy map:**
 
-![EricEmpathyMap](https://github.com/tinguy16/DH150-2020W/blob/master/eric%20EM.jpg)
+![RichieEmpathyMap](https://github.com/tinguy16/DH150-2020W/blob/master/richie%20EM.jpg)
 
 ## Scenarios
 ### Scenario 1
