@@ -87,7 +87,7 @@ He has worked with people of all ages and skill levels and considers himself an 
 **Journey map:**
 
 ### Scenario 3
-**Intention/goal:** 
+**Intention/goal:** After a long week of teaching classes at the local music academy, Richie is sitting in his living room on a Saturday afternoon thinking about what more he can do to help out his community. He recognizes that the music academy he works at is fairly competitive to get into and not to mention extremely costly. Richie knows that his expertise is in music and wants to extend his mentoring skills beyond the classroom to help serve those who do not have the resources to 
 
 **Action:**
 
