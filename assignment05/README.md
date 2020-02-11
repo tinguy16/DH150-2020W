@@ -88,9 +88,13 @@ He has worked with people of all ages and skill levels and considers himself an 
 
 **Journey map:**
 
+![EricJourneyMap](https://github.com/tinguy16/DH150-2020W/blob/master/ericjm.jpg)
+
 ### Scenario 3
 **Intention/goal:** After a long week of teaching classes at the local music academy, Richie is sitting in his living room on a Saturday afternoon thinking about what more he can do to help out his community. He recognizes that the music academy he works at is fairly competitive to get into and not to mention extremely costly. Richie knows that his expertise is in music and wants to extend his mentoring skills beyond the classroom to help serve those who do not have the resources to obtain formal guidance from a trained professional. However, he also knows that with his busy teaching schedule, he does not have a lot of free time to volunteer at a nonprofit music organization or actively seek out those who might need his help. Richie hopes to find an online platform used by many up and coming artists where he can casually engage in open conversation with them and help them to improve. 
 
 **Action:** Richie comes across the Audiu app and after downloading it, navigates to the "Latest Tracks" option where he then shuffles through some of the songs until he finds one that resonates with him. Because he has a lot of advice to give the artist, instead of just leaving a comment on the track, Richie decides to tap on the artist's username to get him to the artist's profile and connects with the artist. He then sends the artist a message introducing himself and offering his constructive criticism. This begins a back and forth conversation between Richie and the artist which ends in Richie feeling fulfilled and good about himself. 
 
 **Journey map:**
+
+![RichieJourneyMap](https://github.com/tinguy16/DH150-2020W/blob/master/richiejm.jpg)
