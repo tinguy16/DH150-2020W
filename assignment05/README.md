@@ -79,6 +79,8 @@ He has worked with people of all ages and skill levels and considers himself an 
 
 **Journey map:**
 
+![AbbyJourneyMap](https://github.com/tinguy16/DH150-2020W/blob/master/abbyjm.jpg)
+
 ### Scenario 2
 **Intention/goal:** It's been two months since Eric posted his newest song on YouTube and Spotify. He's been checking back everyday to see how many people have viewed/streamed it, but has constantly been disappointed with what he's found. His YouTube video has only been viewed 50 times with a mere 3 comments, and his Spotify single has only been streamed 80 times with no option for users to comment their thoughts on it. Eric is feeling a bit discouraged and intimidated having to post his music up alongside viral hits that garner all the attention, so he wants to find a platform where he is more likely to get discovered as well as a place where he can easily interact with his new fans. 
 
