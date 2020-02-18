@@ -10,11 +10,17 @@ After evaluating my user research and usage scenarios based off of my representa
 * Ability to upload your own music 
 * Ability to interact with other users through comments and messaging 
 
-## Wireflows 
+## Wireflow
 
-![Wireflow](https://github.com/tinguy16/DH150-2020W/blob/master/wireflow.jpg)
+![Wireflow](https://github.com/tinguy16/DH150-2020W/blob/master/wireflow.jpg) 
 
 ## User testing 
+
+Below is the result of the low-fidelity prototyping. Each color corresponds to a different task. 
+
+* Red = searching through new music based on specific genres
+* Purple = uploading your own music 
+* Green = finding a song you like, favoriting it, commenting on it, and messaging its artist
 
 ![Task1](https://github.com/tinguy16/DH150-2020W/blob/master/task%201.jpg)
 
