@@ -29,6 +29,9 @@ Below is the result of the low-fidelity prototyping. Each color corresponds to a
 ![Task3](https://github.com/tinguy16/DH150-2020W/blob/master/task%203.jpg)
 
 ## Reflection
+
+Overall, I found this process to have went fairly smoothly. In putting together the wireframes, the only major issue I came across was figuring out where to draw each frame so that I can connect them smoothly to create a wireflow without there being too many overlapping arrows or arrows that span from one side of my page to the other. I found myself drawing upon the design of Spotify quite often because that was one app that was mentioned during my user research as a primary platform for listening to music. 
+
 latest tracks change name because it can be misleading 
 what is phone library? album cover? 
 differentiate between chat bubble/comment icon and mail icon on bottom bar 
