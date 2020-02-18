@@ -6,7 +6,7 @@ After evaluating my user research and usage scenarios based off of my representa
 
 ## Tasks Supported 
 
-* Ability to search through new music based on specific genres
+* Ability to search through new music based on specific genres and save favorite songs 
 * Ability to upload your own music 
 * Ability to interact with other users through comments and messaging 
 
