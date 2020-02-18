@@ -12,6 +12,8 @@ After evaluating my user research and usage scenarios based off of my representa
 
 ## Wireflows 
 
+![Wireflow](https://github.com/tinguy16/DH150-2020W/blob/master/wireflow.jpg)
+
 ## User testing 
 
 ## Reflection
