@@ -16,4 +16,15 @@ After evaluating my user research and usage scenarios based off of my representa
 
 ## User testing 
 
+![Task1](https://github.com/tinguy16/DH150-2020W/blob/master/task%201.jpg)
+
+![Task2](https://github.com/tinguy16/DH150-2020W/blob/master/task%202.jpg)
+
+![Task3](https://github.com/tinguy16/DH150-2020W/blob/master/task%203.jpg)
+
 ## Reflection
+latest tracks change name because it can be misleading 
+what is phone library? album cover? 
+differentiate between chat bubble/comment icon and mail icon on bottom bar 
+make upvote icon more clear
+how to go back from posting a comment back to song screen 
