@@ -9,9 +9,9 @@ Upon first using the app, I found the aesthetics of it to be a bit dated. Howeve
 ## Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
-![Audiu](https://github.com/tinguy16/DH150-2020W/raw/master/IMG_3900.PNG)
-
-![Soundcloud](https://github.com/tinguy16/DH150-2020W/raw/master/IMG_3907.PNG)
+Audiu | Soundcloud
+----------|-----------
+![Audiu](https://github.com/tinguy16/DH150-2020W/raw/master/IMG_3900.PNG)|![Soundcloud](https://github.com/tinguy16/DH150-2020W/raw/master/IMG_3907.PNG)
 
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
