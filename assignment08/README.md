@@ -4,6 +4,17 @@
 
 ## Tasks Supported
 
+* Ability to filter through new music by genre (i.e. R&B) 
+* Ability to shuffle music or play a specific song
+* Ability to 'like' a song
+* Ability to comment on a song
+* Ability to view an artist's profile 
+* Ability to message an artist 
+* Ability to go back to previous task 
+* Ability to go to home screen at any point 
+* Ability to navigate to and shuffle through saved songs 
+* Ability to import a track from your phone's library
+
 ## Screen Designs
 
 ![Screen1](https://github.com/tinguy16/DH150-2020W/blob/master/Screen%20Shot%202020-03-02%20at%209.50.20%20PM.png) 
