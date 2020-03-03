@@ -1,6 +1,8 @@
-# Assignment 08: High Fi Prototype by Tina Nguyen
+# Assignment 08: High Fidelity Prototype by Tina Nguyen
 
 ## Description
+
+The purpose of this high fidelity prototype is to transform the previously made wireflow into an interactive prototype of the Audiu app in hopes of improving upon the original app. By creating this high fidelity prototype, I will be able to better visualize the end product of this app redesign and test its functionality as if it were an actual completed app that could be downloaded. In order to create this high fidelity prototype, I reflected upon past user tests to improve upon my original wireflow's design. I also referenced Spotify's and Instagram's user interfaces because I felt like they were well designed and have features that I was looking to incorporate into my app redesign. I used InVision Studio to create the final product shown below. 
 
 ## Tasks Supported
 
@@ -28,6 +30,8 @@
 ![Screen5](https://github.com/tinguy16/DH150-2020W/blob/master/Screen%20Shot%202020-03-02%20at%209.52.30%20PM.png) 
 
 ## Decision Making Process
+
+In terms of design, I wanted to focus on modernizing the look of the original app. In order to do that, I streamlined the app to give it a more minimalist aesthetic. I enjoyed the original color scheme of the app, so I only made minor changes to it. However, I did still check the contrast ratio using https://contrast-ratio.com/ and passed the accessibility test with a 5.46. While most of my app is black text on a gray background, I wanted to incorporate some green in the buttons so I added shadows to increase the contrast. 
 
 ## Wireflow 
 
