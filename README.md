@@ -7,7 +7,8 @@ With my UX design, I hope to contribute to the community of up-and-coming artist
 Upon first using the app, I found the aesthetics of it to be a bit dated. However, the design is simple enough that navigating through the app was pretty intuitive. I felt like there were some elements missing, such as an activity feed, a "Compose message" option, and a "Favorited tracks" list. The way comments are displayed is also very limiting. I found that the design makes it difficult to meaningfully interact with other users.
 
 ## Competitor analysis [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated 
+https://github.com/tinguy16/DH150-2020W/tree/master/assignment01
 
 Audiu | Soundcloud
 ----------|-----------
