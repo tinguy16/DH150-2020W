@@ -6,6 +6,16 @@
 
 ## Screen Designs
 
+![Screen1](https://github.com/tinguy16/DH150-2020W/blob/master/Screen%20Shot%202020-03-02%20at%209.50.20%20PM.png) 
+
+![Screen2](https://github.com/tinguy16/DH150-2020W/blob/master/Screen%20Shot%202020-03-02%20at%209.50.46%20PM.png) 
+
+![Screen3](https://github.com/tinguy16/DH150-2020W/blob/master/Screen%20Shot%202020-03-02%20at%209.51.28%20PM.png) 
+
+![Screen4](https://github.com/tinguy16/DH150-2020W/blob/master/Screen%20Shot%202020-03-02%20at%209.52.05%20PM.png) 
+
+![Screen5](https://github.com/tinguy16/DH150-2020W/blob/master/Screen%20Shot%202020-03-02%20at%209.52.30%20PM.png) 
+
 ## Decision Making Process
 
 ## Wireflow 
