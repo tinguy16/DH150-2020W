@@ -32,12 +32,15 @@ I've created three different personas and respective scenarios to represent the 
 [Read more...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment05)
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
+![Wireframe](https://github.com/tinguy16/DH150-2020W/raw/master/wireflow.jpg)
 
 ## Low-fidelity prototype (wireflow, assignment07)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+![Wireflow](https://github.com/tinguy16/DH150-2020W/raw/master/task%203.jpg)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+![HiFiWireflow](https://github.com/tinguy16/DH150-2020W/raw/master/Screen%20Shot%202020-03-02%20at%209.49.23%20PM.png)
+
+Interact with the prototype [here](https://projects.invisionapp.com/prototype/AudiuInteractivePrototype-ck7bgdje5002iwo01xgelaqnk/play/482f5d6c)
 
 ## Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
