@@ -6,16 +6,18 @@ With my UX design, I hope to contribute to the community of up-and-coming artist
 ## Design statement 
 While the Audiu app is currently marketed as an app that can be used by both music consumers and music creators to broaden their musical horizons and enhance their overall music consuming and creating experience, the design of the app fails to create a sense of community that allows for a back and forth exchange of thoughts and ideas between users. With my app redesign, I hope to address this design challenge and add features that are conducive to community building and open conversation between users who wish to discover new music and users who would like to hear feedback about the music they've created. My goal is to turn first time listeners into lifelong followers of an artist as well as to give up and coming artists an outlet with which they can grow their career through exposure and constructive criticism. This would fulfill esteem needs for users at both ends of the musical spectrum. Music consumers would feel like they are valued by music creators for their feedback and support while music creators would feel like they are respected by those who enjoy their music.
 
-## Competitor analysis 
-In order to improve upon the Audiu app, I wanted to first compare it to more well established competitor, SoundCloud. I found that SoundCloud's design was much more user friendly. 
-[Read more about the heurisitc evaluation...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment01)
+## Competitor analysis
+### Heuristic Evaluation
+In order to improve upon the Audiu app, I wanted to first compare it to a more well established competitor, SoundCloud. 
+[Read more...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment01)
 
 Audiu | Soundcloud
 ----------|-----------
 ![Audiu](https://github.com/tinguy16/DH150-2020W/raw/master/IMG_3900.PNG)|![Soundcloud](https://github.com/tinguy16/DH150-2020W/raw/master/IMG_3907.PNG)
 
+### Usability Testing
 I also conducted a usability test on the Audiu app to observe and evalutate how others interact with the app and what problems they may come accross. 
-[Read more about the usability testing...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment02)
+[Read more...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment02)
 
 <iframe src="https://drive.google.com/file/d/1kjGMlIXADN6FDesBgsSNVxuQia4fe8XY/preview" width="640" height="480"></iframe>
 
