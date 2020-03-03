@@ -32,7 +32,9 @@ I've created three different personas and respective scenarios to represent the 
 
 ### 1. Abby
 
-![Abby](https://github.com/tinguy16/DH150-2020W/blob/master/abby.jpg)
+Abby | Empathy Map 
+-----|-----------
+![Abby](https://github.com/tinguy16/DH150-2020W/blob/master/abby.jpg)|![EmpathyMap](https://github.com/tinguy16/DH150-2020W/blob/master/abby%20EM.jpg)
 
 **Age:** 20
 
@@ -50,10 +52,6 @@ I've created three different personas and respective scenarios to represent the 
 she uses to have similar features to those of Instagram or Facebook. She can get impatient at times, so having to endlessly
 scroll or click too many times before getting to her desired destination will cause her to just give up. 
 
-
-**Empathy map:**
-
-![AbbyEmpathyMap](https://github.com/tinguy16/DH150-2020W/blob/master/abby%20EM.jpg)
 
 ### 2. Eric
 
