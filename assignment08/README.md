@@ -12,5 +12,5 @@
 
 ## Interactive Prototype 
 
-The interactive prototype can be found[here](https://projects.invisionapp.com/prototype/AudiuInteractivePrototype-ck7bgdje5002iwo01xgelaqnk/play/11c279ec) 
+The interactive prototype can be found [here](https://projects.invisionapp.com/prototype/AudiuInteractivePrototype-ck7bgdje5002iwo01xgelaqnk/play/482f5d6c) 
 
