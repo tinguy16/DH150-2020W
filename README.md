@@ -8,7 +8,10 @@ Upon first using the app, I found the aesthetics of it to be a bit dated. Howeve
 
 ## Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated 
-https://github.com/tinguy16/DH150-2020W/tree/master/assignment01
+
+[View the heuritisic evaluation...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment01)
+
+[View the usability testing...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment02)
 
 Audiu | Soundcloud
 ----------|-----------
