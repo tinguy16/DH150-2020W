@@ -20,8 +20,12 @@ Audiu | Soundcloud
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
 
+[Read more...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment04)
+
 ## UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
+
+[Read more...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment05)
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
 
@@ -36,5 +40,7 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 
 ## Pitch video [update the video after recording your presentation]
 
-## conclusion: what you learned throughout the process
+
+
+## Conclusion: what you learned throughout the process
 
