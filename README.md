@@ -4,18 +4,20 @@
 With my UX design, I hope to contribute to the community of up-and-coming artists as well as those who are seeking to discover new music. I hope to improve the UX/UI of the Audiu app in order to foster an environment where artists can share their music, receive feedback, and hopefully gain new fans. Through my redesign of the app, it is my goal to create a space that is conducive to interactional communication rather than just transactional communication.
 
 ## Design statement 
-Upon first using the app, I found the aesthetics of it to be a bit dated. However, the design is simple enough that navigating through the app was pretty intuitive. I felt like there were some elements missing, such as an activity feed, a "Compose message" option, and a "Favorited tracks" list. The way comments are displayed is also very limiting. I found that the design makes it difficult to meaningfully interact with other users.
+While the Audiu app is currently marketed as an app that can be used by both music consumers and music creators to broaden their musical horizons and enhance their overall music consuming and creating experience, the design of the app fails to create a sense of community that allows for a back and forth exchange of thoughts and ideas between users. With my app redesign, I hope to address this design challenge and add features that are conducive to community building and open conversation between users who wish to discover new music and users who would like to hear feedback about the music they've created. My goal is to turn first time listeners into lifelong followers of an artist as well as to give up and coming artists an outlet with which they can grow their career through exposure and constructive criticism. This would fulfill esteem needs for users at both ends of the musical spectrum. Music consumers would feel like they are valued by music creators for their feedback and support while music creators would feel like they are respected by those who enjoy their music.
 
-## Competitor analysis [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated 
-
-[View the heuritisic evaluation...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment01)
-
-[View the usability testing...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment02)
+## Competitor analysis 
+In order to improve upon the Audiu app, I wanted to first compare it to more well established competitor, SoundCloud. I found that SoundCloud's design was much more user friendly. 
+[Read more about the heurisitc evaluation...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment01)
 
 Audiu | Soundcloud
 ----------|-----------
 ![Audiu](https://github.com/tinguy16/DH150-2020W/raw/master/IMG_3900.PNG)|![Soundcloud](https://github.com/tinguy16/DH150-2020W/raw/master/IMG_3907.PNG)
+
+I also conducted a usability test on the Audiu app to observe and evalutate how others interact with the app and what problems they may come accross. 
+[Read more about the usability testing...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment02)
+
+<iframe src="https://drive.google.com/file/d/1kjGMlIXADN6FDesBgsSNVxuQia4fe8XY/preview" width="640" height="480"></iframe>
 
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
