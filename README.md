@@ -34,7 +34,7 @@ I've created three different personas and respective scenarios to represent the 
 
 Abby | Empathy Map 
 -----|-----------
-![Abby](https://github.com/tinguy16/DH150-2020W/blob/master/abby.jpg)|![EmpathyMap](https://github.com/tinguy16/DH150-2020W/blob/master/abby%20EM.jpg)
+![Abby](https://github.com/tinguy16/DH150-2020W/raw/master/abby.jpg)|![EmpathyMap](https://github.com/tinguy16/DH150-2020W/raw/master/abby%20EM.jpg)
 
 **Age:** 20
 
