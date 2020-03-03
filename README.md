@@ -20,8 +20,9 @@ I also conducted a usability test on the Audiu app to observe and evalutate how 
 <iframe src="https://drive.google.com/file/d/1kjGMlIXADN6FDesBgsSNVxuQia4fe8XY/preview" width="640" height="480"></iframe>
 
 ## User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+The Audiu app is desgined for users from the teenage years to young adult years who have begun to form an idea of who they are as a person and their likes/dislikes, but are still open to exploring options outside their comfort zone. These users enjoy either listening to music, creating music, or both. While they do appreciate mainstream music, they are looking to expose themselves to new sounds and artists. Users may also be amateur artists who are trying to make themselves known, but do not have the resources to do so. 
 
+In order to gain a better understanding of the target market and what their needs are, I conducted an interview with an individual who fits within the target user description.
 [Read more...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment04)
 
 ## UX storytelling [persona+scenario, assignment05]
