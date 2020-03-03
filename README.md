@@ -31,13 +31,13 @@ In order to gain a better understanding of the target market and what their need
 I've created three different personas and respective scenarios to represent the types of users that would ideally interact with the Audiu app and the tasks they are looking to accomplish. 
 [Read more...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment05)
 
-## Wireframe and graphic design element variation [assignment07 + part of 08]
+## Wireframe and graphic design element variation 
 ![Wireframe](https://github.com/tinguy16/DH150-2020W/raw/master/wireflow.jpg)
 
-## Low-fidelity prototype (wireflow, assignment07)
+## Low-fidelity prototype 
 ![Wireflow](https://github.com/tinguy16/DH150-2020W/raw/master/task%203.jpg)
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
+## High-fidelity prototype 
 ![HiFiWireflow](https://github.com/tinguy16/DH150-2020W/raw/master/Screen%20Shot%202020-03-02%20at%209.49.23%20PM.png)
 
 Interact with the prototype [here](https://projects.invisionapp.com/prototype/AudiuInteractivePrototype-ck7bgdje5002iwo01xgelaqnk/play/482f5d6c)
@@ -45,9 +45,9 @@ Interact with the prototype [here](https://projects.invisionapp.com/prototype/Au
 ## Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
-## Pitch video [update the video after recording your presentation]
+## Pitch video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qll7IHN0I4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Conclusion: what you learned throughout the process
+## Conclusion
 
