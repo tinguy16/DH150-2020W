@@ -66,7 +66,7 @@ scroll or click too many times before getting to her desired destination will ca
 
 Eric | Empathy Map 
 -----|-----------
-![Eric](https://github.com/tinguy16/DH150-2020W/blob/master/eric.jpg)|![EmpathyMap](https://github.com/tinguy16/DH150-2020W/blob/master/eric%20EM.jpg)
+![Eric](https://github.com/tinguy16/DH150-2020W/raw/master/eric.jpg)|![EmpathyMap](https://github.com/tinguy16/DH150-2020W/raw/master/eric%20EM.jpg)
 
 **Age:** 24
 
@@ -89,14 +89,14 @@ Eric | Empathy Map
 
 **Journey map:**
 
-![EricJourneyMap](https://github.com/tinguy16/DH150-2020W/blob/master/ericjm.jpg)
+![EricJourneyMap](https://github.com/tinguy16/DH150-2020W/raw/master/ericjm.jpg)
 
 
 ### 3. Richie 
 
 Richie | Empathy Map 
 -----|-----------
-![Richie](https://github.com/tinguy16/DH150-2020W/blob/master/richie.jpeg)|![EmpathyMap](https://github.com/tinguy16/DH150-2020W/blob/master/richie%20EM.jpg)
+![Richie](https://github.com/tinguy16/DH150-2020W/raw/master/richie.jpeg)|![EmpathyMap](https://github.com/tinguy16/DH150-2020W/raw/master/richie%20EM.jpg)
 
 **Age:** 25
 
@@ -120,7 +120,7 @@ He has worked with people of all ages and skill levels and considers himself an 
 
 **Journey map:**
 
-![RichieJourneyMap](https://github.com/tinguy16/DH150-2020W/blob/master/richiejm.jpg)
+![RichieJourneyMap](https://github.com/tinguy16/DH150-2020W/raw/master/richiejm.jpg)
 
 ## Wireframe and graphic design element variation 
 ![Wireframe](https://github.com/tinguy16/DH150-2020W/raw/master/wireflow.jpg)
