@@ -59,7 +59,7 @@ scroll or click too many times before getting to her desired destination will ca
 
 **Journey map:**
 
-![AbbyJourneyMap](https://github.com/tinguy16/DH150-2020W/blob/master/abbyjm.jpg)
+![AbbyJourneyMap](https://github.com/tinguy16/DH150-2020W/raw/master/abbyjm.jpg)
 
 
 ### 2. Eric
