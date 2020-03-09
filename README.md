@@ -147,7 +147,8 @@ After creating te high-fidelity prototype, I wanted to perform another usability
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f-uWLLtdg1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Pitch video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PyMwCqmObBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Below is my pitch video in which I walk you through my entire process of redesigning the Audiu app.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZXAMbg0dWR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusion
 Being completely new to the UX/UI scene, going through this process of redesigning an existing app has helped to shed light on the extensive set of steps that must be taken to simply improve upon an existing app. Before undergoing this process, I did not realize all the factors that must be taken into consideration when designing an app, from the accessibilty of its color scheme to the amount of ongoing user research that must be conducted to ensure the success of the app. Initially, I wanted to focus a great deal of my energy on improving the aesthetics of the app, but I soon realized that while aethetics are important, functionalitty takes precedent. I also had to often recenter my focus because there were so many smaller features I wanted to implemement and improve upon, but knew that they were not as important as nailing down the bigger picture. I learned to tie all my decisions back to my targeted community that I wanted to contribute to, which helped me to prioritize my decisions for the app. 
