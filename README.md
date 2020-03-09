@@ -141,12 +141,14 @@ The purpose of this high fidelity prototype is to transform the previously made 
 
 Interact with the prototype [here](https://projects.invisionapp.com/prototype/AudiuInteractivePrototype-ck7bgdje5002iwo01xgelaqnk/play/482f5d6c)
 
-## Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+## Final evaluation
+After creating te high-fidelity prototype, I wanted to perform another usability test with the newly improved functionality of the app. I presented the high-fidelity prototype to the participant and asked them to complete the tasks supported by the prototype. The usability test was successful and the participant was able to complete all of the tasks. They also followed the exact click path for each task that I intended for them to follow without running into any difficulties. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-uWLLtdg1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Pitch video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qll7IHN0I4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusion
-
+Being completely new to the UX/UI scene, going through this process of redesigning and existing app has helped to shed light on all the steps that must be taken in order to improve upon an app 
