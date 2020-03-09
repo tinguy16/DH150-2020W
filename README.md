@@ -4,28 +4,25 @@
 With my UX design, I hope to contribute to the community of up-and-coming artists as well as those who are seeking to discover new music. I hope to improve the UX/UI of the Audiu app in order to foster an environment where artists can share their music, receive feedback, and hopefully gain new fans. Through my redesign of the app, it is my goal to create a space that is conducive to interactional communication rather than just transactional communication.
 
 ## Design statement 
-While the Audiu app is currently marketed as an app that can be used by both music consumers and music creators to broaden their musical horizons and enhance their overall music consuming and creating experience, the design of the app fails to create a sense of community that allows for a back and forth exchange of thoughts and ideas between users. With my app redesign, I hope to address this design challenge and add features that are conducive to community building and open conversation between users who wish to discover new music and users who would like to hear feedback about the music they've created. My goal is to turn first time listeners into lifelong followers of an artist as well as to give up and coming artists an outlet with which they can grow their career through exposure and constructive criticism. This would fulfill esteem needs for users at both ends of the musical spectrum. Music consumers would feel like they are valued by music creators for their feedback and support while music creators would feel like they are respected by those who enjoy their music.
+While the Audiu app is currently marketed as an app that can be used by both music consumers and music creators to broaden their musical horizons and enhance their overall music consuming and creating experience, the design of the app fails to create a sense of community that allows for a back and forth exchange of thoughts and ideas between users. With my app redesign, I hope to address this design challenge and add features that are conducive to community building and open conversation between users who wish to discover new music and users who would like to hear feedback about the music they've created. My goal is to turn first time listeners into lifelong followers of an artist as well as to give up and coming artists an outlet with which they can grow their career through exposure and constructive criticism. This would fulfill esteem needs for users at both ends of the musical spectrum. Music consumers would feel like they are valued by music creators for their feedback and support while music creators would feel like they are respected by those who enjoy their music. I also hope to improve upon the ease of use of the app by streamlining the processes for discovering and sharing new music.  
 
 ## Competitor analysis
 ### Heuristic Evaluation
-In order to improve upon the Audiu app, I wanted to first compare it to a more well established competitor, SoundCloud. 
-[Read more...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment01)
+In order to improve upon the Audiu app, I wanted to first compare it to a more well established competitor, SoundCloud. In comparison to SoundCloud, I found that Audiu's aesthetic to be more dated. I also found that Audiu was missing some essential elements, such as an activity feed, a "Compose message" option, and a "Favorited tracks" list. The way comments are displayed is also very limiting. [Read more...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment01)
 
 Audiu | Soundcloud
 ----------|-----------
 ![Audiu](https://github.com/tinguy16/DH150-2020W/raw/master/IMG_3900.PNG)|![Soundcloud](https://github.com/tinguy16/DH150-2020W/raw/master/IMG_3907.PNG)
 
 ### Usability Testing
-I also conducted a usability test on the Audiu app to observe and evalutate how others interact with the app and what problems they may come accross. 
-[Read more...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment02)
+I also conducted a usability test on the Audiu app to observe and evalutate how others interact with the app and what problems they may come accross. I found that some of the features of the app can easily be mistaken for one another, causing confusion for the user as to which it the correct option for the task they are tying to complete. [Read more...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment02)
 
 <iframe src="https://drive.google.com/file/d/1kjGMlIXADN6FDesBgsSNVxuQia4fe8XY/preview" width="640" height="480"></iframe>
 
 ## User research
 The Audiu app is desgined for users from the teenage years to young adult years who have begun to form an idea of who they are as a person and their likes/dislikes, but are still open to exploring options outside their comfort zone. These users enjoy either listening to music, creating music, or both. While they do appreciate mainstream music, they are looking to expose themselves to new sounds and artists. Users may also be amateur artists who are trying to make themselves known, but do not have the resources to do so. 
 
-In order to gain a better understanding of the target market and what their needs are, I conducted an interview with an individual who fits within the target user description.
-[Read more...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment04)
+In order to gain a better understanding of the target market and what their needs are, I conducted an interview with an individual who fits within the target user description. I found that the use of curated playlists was an important aspect to the user's experience. The user enjoyed both playlists that had a mix of genres as well as playlists that contained songs that are similar to the ones she already likes. The user also expressed that she liked the organizational aspect of playlists, but she would like it if the app organized her songs within her playlists for her (i.e. by genre). In analyzing the way in which the user went about finding new music, I found that she took a very network-oriented appraoch, where she'd start with one trusted source (i.e. her friends or an artist she likes) and from there find other similar songs/artists and just move along this interconnected network that never really took her beyond what she was already vaguely familiar with. The user, however, expressed that this could be very time consuming and overwhelming. [Read more...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment04)
 
 ## UX storytelling 
 I've created three different personas and respective scenarios to represent the types of users that would ideally interact with the Audiu app and the tasks they are looking to accomplish. 
@@ -123,12 +120,23 @@ He has worked with people of all ages and skill levels and considers himself an 
 ![RichieJourneyMap](https://github.com/tinguy16/DH150-2020W/raw/master/richiejm.jpg)
 
 ## Wireframe and graphic design element variation 
+This sketch showcases the processes for searching through new music based on specific genres and saving favorite songs, uploading your own music, and interacting with other users through comments and messaging. [Read more...](hhttps://github.com/tinguy16/DH150-2020W/tree/master/assignment06)
+
 ![Wireframe](https://github.com/tinguy16/DH150-2020W/raw/master/wireflow.jpg)
 
 ## Low-fidelity prototype 
+Below is the result of the low-fidelity prototyping. Each color corresponds to a different task.
+* Red = searching through new music based on specific genres
+* Purple = uploading your own music
+* Green = finding a song you like, favoriting it, commenting on it, and messaging its artist
+
+My participant was able to complete all three tasks sucessfully, although she did note a few areas of confusion. In the first task, I asked her to browse through songs sorted by the EDM genre and listen to the playlist on shuffle. She thought that the option being titled "Lastest Tracks" felt a bit misleading, but upon comparing it to the other avaible options, chose it because it made the most sense. In the second task, I asked my particpant to upload a song of theirs to the app. My participant went directly from "Import Tracks" to choosing one of the songs listed to upload, so she thought "Phone Library" meant your camera roll where you could choose an album cover. In the third task, I asked my participant to find a song they liked, favorite it, comment on it, and message its artist. These related tasks were easily accomplished by my participant, although she did note that the chat bubble icon for the comment function being next to the envelope icon for the inbox function could be hard to differentiate between. She also noted that there was no back button to return to the previous page after completing a task. [Read more...](hhttps://github.com/tinguy16/DH150-2020W/tree/master/assignment06)
+
 ![Wireflow](https://github.com/tinguy16/DH150-2020W/raw/master/task%203.jpg)
 
 ## High-fidelity prototype 
+The purpose of this high fidelity prototype is to transform the previously made wireflow into an interactive prototype of the Audiu app in hopes of improving upon the original app. In order to create this high fidelity prototype, I reflected upon past user tests to improve upon my original wireflow's design. I also referenced Spotify's and Instagram's user interfaces because I felt like they were well designed and have features that I was looking to incorporate into my app redesign. I used InVision Studio to create the final product shown below. [Read more...](https://github.com/tinguy16/DH150-2020W/tree/master/assignment086)
+
 ![HiFiWireflow](https://github.com/tinguy16/DH150-2020W/raw/master/Screen%20Shot%202020-03-02%20at%209.49.23%20PM.png)
 
 Interact with the prototype [here](https://projects.invisionapp.com/prototype/AudiuInteractivePrototype-ck7bgdje5002iwo01xgelaqnk/play/482f5d6c)
